@@ -115,22 +115,6 @@ MSc Data Science
 250062333
 
 
-## 4. Repository Structure
-python_code/
-├── 01 S&P500_Forecasting.ipynb
-├── 02 SentimentAnalysis_VADER.ipynb
-└── 03 SentimentAnalysis_FinBERT.ipynb
-
-data/
-├── sp500_price_data.csv
-├── vader_sentiment_features.csv
-├── finbert_sentiment_features.csv
-└── forecasting_outputs.csv
-
-powerbi/
-├── sp500_behavioural_analysis_dashboard.pbix
-└── dashboard_preview.png
-
 results/
 ├── model_comparison_metrics.csv
 └── lstm_future_forecasts.csv
