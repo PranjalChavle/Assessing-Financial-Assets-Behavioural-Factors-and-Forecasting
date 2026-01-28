@@ -1,4 +1,4 @@
-**Assessing Financial Assets Behavioural Factors and Forecasting**
+## Assessing Financial Assets Behavioural Factors and Forecasting 
 
 The study examines how behavioural sentiment factors influence financial asset
 movements and evaluates multiple forecasting models to predict short-term
@@ -57,16 +57,16 @@ relationship with asset price movements.
 
 ## 5. Python Files Description
 
-- **01_sp500_forecasting_models.ipynb**  
+- **01_S&P500_Forecasting.ipynb**  
   Data fetching, cleaning, exploratory analysis, statistical testing, and
   forecasting using ARIMA, Linear Regression, XGBoost, and LSTM. Includes
   short-horizon future forecasts using the LSTM model.
 
-- **02_vader_sentiment_analysis.ipynb**  
+- **02_SentimentAnalysis_VADER.ipynb**  
   Behavioural sentiment extraction using the VADER lexicon-based approach,
   aligned with S&P 500 market data.
 
-- **03_finbert_sentiment_analysis.ipynb**  
+- **03_SentimentAnalysis_FinBERT.ipynb**  
   Financial sentiment analysis using FinBERT, including aggregation of article-
   level sentiment into daily indicators.
 
