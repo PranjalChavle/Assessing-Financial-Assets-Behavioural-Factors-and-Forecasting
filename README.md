@@ -110,8 +110,3 @@ A static preview image is included for reference.
 **Pranjal Lalit Chavle**  
 MSc Data Science
 250062333
-
-
-results/
-├── model_comparison_metrics.csv
-└── lstm_future_forecasts.csv
