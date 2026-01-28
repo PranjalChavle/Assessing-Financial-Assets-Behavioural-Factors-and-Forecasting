@@ -52,10 +52,7 @@ relationship with asset price movements.
 
 ---
 
-
----
-
-## 5. Python Files Description
+## 4. Python Files Description
 
 - **01_S&P500_Forecasting.ipynb**  
   Data fetching, cleaning, exploratory analysis, statistical testing, and
@@ -75,7 +72,7 @@ files for downstream analysis.
 
 ---
 
-## 6. Power BI Dashboard
+## 5. Power BI Dashboard
 
 A Power BI dashboard is developed using the processed CSV outputs generated
 from the Python analysis. The dashboard provides interactive visualisations of:
@@ -89,7 +86,7 @@ A static preview image is included for reference.
 
 ---
 
-## 7. Technologies Used
+## 6. Technologies Used
 
 - Python (Pandas, NumPy, Scikit-learn, Statsmodels)
 - TensorFlow / Keras
@@ -100,7 +97,7 @@ A static preview image is included for reference.
 
 ---
 
-## 8. Notes
+## 7. Notes
 
 - This repository is intended strictly for **academic research purposes**.
 - Forecasting outputs and inferred signals are experimental and should not be
